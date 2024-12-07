@@ -1,0 +1,55 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Directory for debug outputs
+coverage/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build and deployment
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Other generated files
+*.pid
+*.seed
+*.pid.lock
+
+# Sequelize
+migrations/
+seeders/
+
+# Tests
+jest-coverage/
+test-results.xml
+
+config/config.json
