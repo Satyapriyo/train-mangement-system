@@ -41,7 +41,6 @@ This is a Train Booking System API built with Express.js and Sequelize, designed
     ```bash
     npm install
     ```
-
 3. **Configure environment variablesCreate a .env file in the root directory and add the following environment variables:**
    
     ```bash
